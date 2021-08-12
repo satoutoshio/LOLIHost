@@ -1,1 +1,1 @@
-# LOLIHost
+# LoliHost
